@@ -1,0 +1,7 @@
+*.log
+*.pyc
+src/movieqa/outputs
+*.aux
+*.blg
+*.out
+*.bbl
